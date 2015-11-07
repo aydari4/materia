@@ -1,0 +1,16 @@
+{
+  "name": "materia",
+  "version": "0.1",
+  "authors": [
+    "Aydari4 <aydari4@gmail.com>"
+  ],
+  "description": "Testing materialize and angular features",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular-materialize": "*"
+  }
+}
